@@ -76,9 +76,6 @@
     <Prefer32Bit>false</Prefer32Bit>
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
-  <PropertyGroup>
-    <AssemblyOriginatorKeyFile>fortyone.pfx</AssemblyOriginatorKeyFile>
-  </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
   <ItemGroup>
@@ -213,7 +210,6 @@
     <None Include="Icons\twitter.png" />
     <Content Include="Resources\112_Plus_Green_16x16_72.png" />
     <Content Include="Resources\112_RefreshArrow_Green_16x16_72.png" />
-    <None Include="fortyone.snk" />
     <None Include="Resources\AutoUpdater.exe" />
     <Content Include="Resources\btn_donateCC_LG.png" />
     <Content Include="Resources\delete.png" />
@@ -221,7 +217,6 @@
     <None Include="app.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="fortyone.pfx" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>

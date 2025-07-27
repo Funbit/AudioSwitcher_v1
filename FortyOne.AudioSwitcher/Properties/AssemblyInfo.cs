@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Audio Switcher")]
 [assembly: AssemblyDescription("Audio Switcher - GUI")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Forty One Ltd.")]
+[assembly: AssemblyCompany("Forty One Ltd. / Funbit Fork")]
 [assembly: AssemblyProduct("Audio Switcher")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
@@ -36,7 +36,7 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("1.8.0.142")]
-[assembly: AssemblyFileVersion("1.8.0.142")]
-[assembly: AssemblyInformationalVersion("1.8.0.142")]
+[assembly: AssemblyVersion("1.8.1.0")]
+[assembly: AssemblyFileVersion("1.8.1.0")]
+[assembly: AssemblyInformationalVersion("1.8.1.0")]
 [assembly: NeutralResourcesLanguage("")]
